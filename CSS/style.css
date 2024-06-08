@@ -479,10 +479,6 @@ li:nth-child(even) {
     border-bottom: 0;
     padding-bottom: 0;
   }
-  header h1 {
-    font-size: 5.5vh;
-    width: 350px;
-  }
   .scrollAnimation {
     animation: none;
   }
