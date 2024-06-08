@@ -553,14 +553,19 @@ li:nth-child(even) {
     width: 600px;
     font-size: 5.5em;
   }
-  .intro h2 {
-    font-size: 5em;
-    text-align: right;
+ .intro h2 {
+    font-size: 4em;
+    text-align: left;
   }
   .image {
     animation: none;
-    height: 30%;
+    height: 40%;
     width: 100%;
+  }
+  .image a{
+    padding-top: 5em;
+    padding-bottom: .5em;
+    font-size: 1.5em;
   }
   .content p {
     margin-top: 0;
