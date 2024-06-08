@@ -544,6 +544,12 @@ li:nth-child(even) {
     font-size: 12vw;
   }
 }
+@media only screen and (max-width: 638px) and (min-width:365px) {
+  header h1 {
+    width: 350px;
+    font-size: 3.2em;
+  }
+}
 /*TODO: devices having screen size more tham a mobile but less than a tablet  */
 
 @media only screen and (max-width: 1024px) and (min-width: 638px) {
